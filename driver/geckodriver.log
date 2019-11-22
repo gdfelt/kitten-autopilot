@@ -54,3 +54,11 @@ console.error: (new Error("Transaction canceled due to a closed connection.", "r
 1574462196934	Marionette	INFO	Listening on port 39405
 1574462197225	Marionette	WARN	TLS certificate errors will be ignored for this session
 1574462400288	Marionette	INFO	Stopped listening on port 39405
+[Parent 21801, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /home/abuild/rpmbuild/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+console.error: (new Error("Transaction canceled due to a closed connection.", "resource://gre/modules/Sqlite.jsm", 613))
+1574462492240	Marionette	INFO	Stopped listening on port 37995
+[Parent 22106, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /home/abuild/rpmbuild/BUILD/firefox-70.0.1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+console.error: (new Error("Transaction canceled due to a closed connection.", "resource://gre/modules/Sqlite.jsm", 613))
+1574462499109	Marionette	INFO	Stopped listening on port 46699
+console.error: (new Error("Transaction canceled due to a closed connection.", "resource://gre/modules/Sqlite.jsm", 613))
+1574462501441	Marionette	INFO	Stopped listening on port 34031
